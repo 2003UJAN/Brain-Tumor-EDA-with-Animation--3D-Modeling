@@ -1,1 +1,1 @@
-# Brain-Tumor-Exploratory-Data-Analysis-(EDA)-with-Animation-&-3D-Mod
+# Brain-Tumor-Exploratory-Data-Analysis-(EDA)-with-Animation-&-3D-Mode
