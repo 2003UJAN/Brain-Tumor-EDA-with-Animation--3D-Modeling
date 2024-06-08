@@ -1,1 +1,1 @@
-# Brain-Tumor-Exploratory-Data-Analysis-(EDA)-with-Anima
+# Brain-Tumor-Exploratory-Data-Analysis-(EDA)-with-Animat
