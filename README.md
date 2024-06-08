@@ -1,1 +1,1 @@
-# Brain-Tumor-Explorator
+# Brain-Tumor-Exploratory
